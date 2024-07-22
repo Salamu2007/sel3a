@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #ffa54a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    height: auto;
+}
+header label span{
+    color: rgb(75, 50, 0);
+    font-size:1.5em ;
+}
+header label{
+    font-size: 2em;
+}
